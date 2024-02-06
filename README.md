@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 </h1>
 
-<!--
-**chundiindu/chundiindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Indu Chundi and I'm a Passionate learner continious learner , Currently working as Software Engineer at Citrix.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I graduated from Vellore Institute Of Technology</h2>
+
+###
+
+<p align="left"><br>📚 I'm currently learning  devops🎯 Goals: ...<br></p>
+
+###
+
+<h2 align="left">I code with Java , python</h2>
+
+###
+
+###
